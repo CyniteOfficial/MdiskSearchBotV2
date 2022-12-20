@@ -7,11 +7,11 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "12124605"))
     API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5497795663:AAH1J6OQq_niE3E5u8tWijChjLQmLiA_z_M")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "postbot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1AZWarzoBu2WAcC8Fx3vGCicaImtybcc22UHdWvyA1Nfev7WLirE5hZDooAddwXK9MJ5dmppbNOKNEGPOsgXhOoO5lfWzixawvhvLcTbuSBC0n9O_rIk0e7vLtCcO1S--r2V9bFRt34vq0dGxf1oa15XXsGbCQluyMBqQGtleF2Sx02DVL1O48lGiGMf4nA5mtfpYH7YdsaDfwuSc5Lm6b6PgGRZbrXPg438Jtqv0T4aoy_oEayBdo0FkqFP0j4pdsMSRGuIkZLtmpZoMJj5x7xmE2zjj774ZIPej7xnhStp3zOPnVzUvPqRyKM3nG8R8MGm2-g1MewEz8Lt-x45Lbko6dgwe5uU=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001697543381")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "PostSearchBot")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5717011827:AAGa9yKMM1hoHPC1CASxJoiYZFg_vMvFFEU")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "cynitemdiskbot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "PqRyKM3nG8R8MGm2-g1MewEz8Lt-x45Lbko6dgwe5uU")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001877117501")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskBot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteoffcial")
     BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
@@ -23,7 +23,7 @@ I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
 I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Eᴠᴇʀʏ Mᴏᴠɪᴇ Iɴ Mᴅɪsᴋ Lɪɴᴋ 🔗
 
 Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" ) 
-    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/b57323ed245c34a374ac4.jpg")
+    START_PHOTO = os.getenv("START_PHOTO", "https://telegra.ph/file/7d357b72c29a6aa21fb78.jpg")
     HOME_TEXT = os.getenv("HOME_TEXT", """ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕
 
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
@@ -83,24 +83,6 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 3) 𝘗𝘩𝘪𝘳 𝘳𝘦𝘨𝘪𝘴𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝘬𝘢𝘳𝘰 𝘢𝘶𝘳 𝘭𝘪𝘧𝘦 𝘵𝘪𝘮𝘦 𝘧𝘳𝘦𝘦 𝘷𝘪𝘥𝘦𝘰𝘴 𝘣𝘪𝘯𝘢 𝘈𝘥𝘴 𝘬𝘦 𝘥𝘦𝘬𝘩𝘰😍
 
 4) 𝘕𝘢𝘩𝘪 𝘛𝘰 𝘈𝘱𝘱 𝘕𝘪𝘤𝘩𝘦 𝘋𝘪𝘺𝘦 𝘎𝘢𝘺𝘦  𝘗𝘢𝘳 𝘊𝘭𝘪𝘤𝘬 𝘒𝘢𝘳𝘬𝘦 𝘗𝘶𝘳𝘢 𝘚𝘵𝘦𝘱 𝘓𝘪𝘷𝘦 𝘗𝘩𝘰𝘵𝘰 𝘔𝘦 𝘋𝘦𝘬𝘩 𝘚𝘬𝘢𝘵𝘦 𝘏𝘢𝘪😇"""
-
-    ABOUT_MDISKLINK_TEXT = """
-𝗠𝗱𝗶𝘀𝗸Link 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
-वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
-
-1) L𝘪𝘯𝘬 𝘱𝘦𝘳 𝘤𝘭𝘪𝘤𝘬 𝘬𝘢𝘳𝘦 𝘶𝘴𝘬𝘦 𝘣𝘢𝘢𝘥 1 𝘱𝘢𝘨𝘦 𝘬𝘩𝘶𝘭𝘦𝘨𝘢. 💜
-
-2) 𝘞𝘢𝘩𝘢 𝘱𝘢𝘳 "Dual Tap Rapidly" par 1 bar click kare aur agar nahi khule to 1 baar aur click kare.😉
-
-3) phir "I am not a robot" par click kare.😍
-
-4) 𝘐𝘴𝘬𝘦 𝘉𝘢𝘢𝘥 ek page khulega waha 20 sec wait krne ke baad "Dual tap to go to link" pr 1 baar click kare. 💻
-
-5) phir "Go to Link-Click Open" pr click kare.⬇️
-
-6) phir mdisk ya terabox ka link khul jayega Enjoy Watching✌️
-
-7) 𝘕𝘢𝘩𝘪 𝘛𝘰 𝘈𝘱𝘱 𝘕𝘪𝘤𝘩𝘦 𝘋𝘪𝘺𝘦 𝘎𝘢𝘺𝘦 Watch Video 𝘗𝘢𝘳 𝘊𝘭𝘪𝘤𝘬 𝘒𝘢𝘳𝘬𝘦 𝘗𝘶𝘳𝘢 𝘚𝘵𝘦𝘱 𝘓𝘪𝘷𝘦  𝘋𝘦𝘬𝘩 𝘚𝘢k𝘵𝘦 𝘏𝘢𝘪.😇"""
 
     ABOUT_HELP_TEXT = """
 
