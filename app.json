@@ -1,0 +1,43 @@
+without @",
+            "required": false
+        },
+        "RESULTS_COUNT":{
+            "description": "Count of the number of Results",
+            "required": false,
+            "value": "20"
+        },
+        "AUTO_DELETE_TIME":{
+            "description": "Auto deletion time in seconds",
+            "required": false,
+            "value": "300"
+        },
+        "FORCE_SUB":{
+            "description": "Set to true to force a new subscription",
+            "required": false,
+            "value": "False"
+        },
+        "HELP_TEXT": {
+            "description": "Type Anything You Want"    
+        },
+        "ABOUT_TEXT": {
+            "description": "Type Anything You Want"
+        },    
+        "MDISK_API":{
+            "description": "Mdisk API",
+            "required": true,
+            "value": ""
+        }
+
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
