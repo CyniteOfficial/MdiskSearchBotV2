@@ -30,7 +30,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
     UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001651748420")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://cluster0.sviapvs.mongodb.net/myFirstDatabase" --apiVersion 1 --username skcreator07")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://skcreator07:<password>@cluster0.sviapvs.mongodb.net/?retryWrites=true&w=majority")
     LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001651748420"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
