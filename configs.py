@@ -5,11 +5,13 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "15029364"))
-    API_HASH = os.getenv("API_HASH", "3a719592d227f0486aa5d40c74f005b8")
+    API_ID = int(os.getenv("API_ID", "21138731"))
+    API_HASH = os.getenv("API_HASH", "a629b44c12f672ddf229af5096c844cc")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5779605069:AAE_9p0EPGSoP7gNhh7bWnt_fBDV9Z8q6mQ")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "sk_mdiskbot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOGgBu7AloagYOcAbRyktjeonZPdSKPJshWDI6e-nldxByB6aacGE-vhyXKO6rc9im7v4KmgwNraE2P9QV3QkL7fzNdIJUZxDREmeIrc402gp_72c8IC2lEuuHgQGTIPoswD2D3Vy3AxIW_3wGf5qQ_S3Q9RexK6tsifvXQV_IykEOJYfmQTIM8byx827iVhqxSGYKbA2Y5iu13AgBQi-ojAsfoQ1yKmZ9FlMZsSnAgV6e-pKy7lsv3Q9_Nu3m-SnPgKoclrBTNm4QdR2A4UPThNItkjls84ki2sVVDl0-88nO7C081yxjXXBiGc1Pvs1PQIjgSiIvoM_MXlW2ghyY4DdveQ=")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "This is your string session 👇👇
+
+1BVtsOLoBu0Wi6h18TTKehmuUw5tX-cWLJfPdFtzaHBVFvkMpSPBbayM-fDDy7chjqNA91XgbxbNUOq-q98iOP7GUnHF-_yIt7hz8n7S609RN2XOI5gry870kF0AnfWcErIFWr37XxT5WDlqNMnu5NR6L2tQj0bg3ifXGaNtV9C4HbdSAICAzvJfhR1CqewwALEFQsXnrqGnKW4luIJd5LgIlYQtEWhvvWywwQI1bTnSvRhOD0k7IADYiO_XOmei6DbIu7qGMa0uW2w1-W3lmcCUhyZ8yW8eS4tcjcbzXMDo-kXUS64H-uuXBuIB7p0bdyVtuC7SLLxUaKuMSAW95msL5oxKdPhk=")
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001759235523")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "sk_mdiskbot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "5072166420"))
