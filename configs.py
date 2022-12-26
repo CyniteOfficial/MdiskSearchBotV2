@@ -5,8 +5,8 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "21138731"))
-    API_HASH = os.getenv("API_HASH", "a629b44c12f672ddf229af5096c844cc")
+    API_ID = int(os.getenv("API_ID", "15029364"))
+    API_HASH = os.getenv("API_HASH", "3a719592d227f0486aa5d40c74f005b8")
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5779605069:AAE_9p0EPGSoP7gNhh7bWnt_fBDV9Z8q6mQ")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "sk_mdiskbot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOGgBu7AloagYOcAbRyktjeonZPdSKPJshWDI6e-nldxByB6aacGE-vhyXKO6rc9im7v4KmgwNraE2P9QV3QkL7fzNdIJUZxDREmeIrc402gp_72c8IC2lEuuHgQGTIPoswD2D3Vy3AxIW_3wGf5qQ_S3Q9RexK6tsifvXQV_IykEOJYfmQTIM8byx827iVhqxSGYKbA2Y5iu13AgBQi-ojAsfoQ1yKmZ9FlMZsSnAgV6e-pKy7lsv3Q9_Nu3m-SnPgKoclrBTNm4QdR2A4UPThNItkjls84ki2sVVDl0-88nO7C081yxjXXBiGc1Pvs1PQIjgSiIvoM_MXlW2ghyY4DdveQ=")
