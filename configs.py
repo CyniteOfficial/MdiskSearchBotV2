@@ -5,16 +5,16 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
+    API_ID = int(os.getenv("API_ID", "27751714"))
+    API_HASH = os.getenv("API_HASH", "f428b6867d0f84ea2bcd165d9032f0d3")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5786856358:AAGjKT4pApZjMcATiWd6mdsOM_Y6as8BXqE")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdisk_search_bot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOGoBu6YF708vS4ujgSDA2eE8Ox-0XHtmbFo3-dBAIHpjZsXx1hPyui9Uo11RwdLOraUyUj8CQwXPF7oFg5teSPpPJrSx_-dFfFkcFnAuxOQS8P3z_Lmae7DgUATcmu5Z-7AsGXLfG7ARXprlb_8xa3RqAAnrc47hdkItcqVx71wySEfsVRWFBbHSkSHWbkGJkxfi-uihXy45hwMZZct1vnVWbIKW50z4BgVZsr83mk8lLubztOmNuqvdSDghGof7Or0lapCaHVXqQ6A6ZBk-vmQV-RGh-iL3ySljRN_qU7xjIw3NKzKOgzyxU3lXkdSYTFjZDCJ8Absl25YXKWYew47OS1U=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001852620929")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Madisk_m_search_bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "1282771255"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "clushter_official")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "newbackup")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
@@ -29,12 +29,12 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001796458234"))
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001852620929")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Clushter13:<password>@cluster0.1zxi5qg.mongodb.net/?retryWrites=true&w=majority")
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001852620929"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cynitebackup")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "search_movie_hd")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @CyniteBackup"""
+ʀᴇɢᴀʀᴅs - @clushter_offial 🤖 """
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
@@ -108,7 +108,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @CyniteSupport
+👉 @clushter_official
 
 """
 
